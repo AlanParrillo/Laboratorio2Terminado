@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/descarga.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    border-style: dashed;
+}
+h3{
+    border-style: dotted;
+}
